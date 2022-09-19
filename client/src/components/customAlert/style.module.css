@@ -1,0 +1,11 @@
+.alert {
+  color: #a2205c;
+  font-size: 14.5px;
+  width: 290px;
+  height: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #f8d7da;
+  border-radius: 4px;
+}

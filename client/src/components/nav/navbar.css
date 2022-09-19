@@ -1,0 +1,17 @@
+.nav {
+  border-bottom: 1px solid #a6a5a9;
+  font-weight: 900;
+}
+
+.left > p {
+  font-size: 18px;
+  color: #0d5adc;
+}
+
+.right {
+  width: 210px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+}

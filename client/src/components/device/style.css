@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+.title {
+  font-weight: 700;
+  color: #828286;
+  font-size: 48px;
+}
+
+.device-list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.devices-list {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.devices-btn {
+  outline: none;
+  border: none;
+  background: none;
+  color: #0d5adc;
+  font-size: 18px;
+}
+
+.active {
+  border-bottom: 1px solid #0d5adc;
+}
+
+.info {
+  margin-top: 70px;
+  background-color: rgb(244, 249, 252);
+}
+
+.device-chek{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
